@@ -1,0 +1,8 @@
+let firstName = "Mohamed";
+let lastName = "Irsath";
+
+let fullName = firstName + " " + lastName;
+
+console.log(fullName);
+output:
+Mohamed Irsath
